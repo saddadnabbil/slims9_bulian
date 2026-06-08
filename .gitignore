@@ -25,6 +25,7 @@ slims8_akasia.sublime-workspace
 
 plugins/*
 !plugins/read_counter/
+!plugins/ebook_reader/
 
 template/*
 
